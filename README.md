@@ -19,7 +19,7 @@ I will fill it in as soon as it is completed.
 ・JavaSprict
 Ruby on Rails(5.2.5)
 
-#機能一覧 List of Functions
+# 機能一覧 List of Functions
 
 https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384G_g/edit#gid=0
 
