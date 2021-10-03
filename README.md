@@ -1,15 +1,19 @@
 # Market Street
 
 スーパーマーケットでの買い物の時間を短縮できるように作ったECサイトです。
+
 It is an EC site created to shorten the shopping time in the supermarket.
 
 # セールスポイント Sales Point
 
 時間のない主婦の方にスーパーに行かなくても買い物をしていただけるように作りました。
+
 I made it so that housewives who do not have time can shop without going to the supermarket.
-#インストール方法 Installation method
+
+# インストール方法 Installation method
 
 完成次第記入します。
+
 I will fill it in as soon as it is completed.
 
 # 使用言語 Language used
