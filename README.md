@@ -1,44 +1,61 @@
 # Market Street
 
-スーパーマーケットでの買い物の時間を短縮できるように作ったECサイトです。
+ スーパーマーケットのECサイト　 DMMWEBCAMP  ポートフォリオ
 
-It is an EC site created to shorten the shopping time in the supermarket.
+> Supermarket EC site. Portfolio　　
 
-# セールスポイント Sales Point
+## サイトテーマ　[Site theme]
 
-時間のない主婦の方にスーパーに行かなくても買い物をしていただけるように作りました。
+場所を選ばないスーパーマーケット
 
-I made it so that housewives who do not have time can shop without going to the supermarket.
+## ターゲットユーザー [Target user]
 
-# インストール方法 Installation method
+- 20代~50代の主婦の方
+> Housewives in their 20s and 50s.
 
-完成次第記入します。
+- 一人暮らしの学生
+> Student living alone. 
 
-I will fill it in as soon as it is completed.
 
-# 使用言語 Language used
+## 主な利用シーン [Main usage scenes]
 
-・HTML&CSS
-・Ruby
-・JavaSprict
-Ruby on Rails(5.2.5)
+- スーパーマーケットに買い物に行く時間がない時
 
-# チャレンジ要素一覧 List of Functions
+- 商品の詳細を把握したい時(他人の口コミや商品説明を見る事ができる)
+
+- 過去の購入履歴を見たい時
+
+
+## 機能一覧 [List of Functions]
 
 https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384G_g/edit#gid=0
 
-# Gem
+## 開発環境 [Development environment]
 
-・boostrap
-・devise
-・refile
-・refile-mini_magick
-・kaminari
-・jquery-rails
-・fontausome
+- OS : Linux(CentOS)
 
-# 作成者 Author
+- 言語 ： HTML,CSS,Ruby,JavaScript,SQL
+> Language : HTML,CSS,Ruby,JavaScript,SQL
 
-金井勇樹 Yuuki Kanai
+- フレームワーク　: Ruby on Rails(5.2.5)
+> Framework　: Ruby on Rails(5.2.5)
 
-DMM WEB CAMP 2021 8月生
+- JS　ライブラリ　: jQuery
+> JS Library : jQuery
+
+-　　IDE : Cloud9
+
+## Gem
+
+-boostrap
+-devise
+-refile
+-refile-mini_magick
+-kaminari
+-fontausome
+
+## Author　　作成者
+
+金井勇樹 
+> Yuuki Kanai
+
