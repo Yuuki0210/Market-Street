@@ -7,6 +7,7 @@
 ## サイトテーマ　[Site theme]
 
 場所を選ばないスーパーマーケット
+> Supermarket anywhere
 
 ## ターゲットユーザー [Target user]
 
