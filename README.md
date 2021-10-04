@@ -57,15 +57,6 @@ https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384
 - designevo
 - ぱくたそ
 
-## Gem
-
-- boostrap
-- devise
-- refile
-- refile-mini_magick
-- kaminari
-- fontausome
-
 ## Author　　作成者
 
 金井勇樹 
