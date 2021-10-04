@@ -7,10 +7,16 @@ DMMWEBCAMP  ポートフォリオ
 ## サイトテーマ　[Site theme]
 
 ネットでスーパーマーケットの買い物ができるECサイト
+> EC site where you can shop at supermarkets online
 
-## テーマを選んだ理由
+## テーマを選んだ理由 [Reasons for choosing the theme]
 
-自分自身、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと思ったため
+- 自分自身、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと思ったため。
+
+> I myself feel that going out easily is becoming more difficult due to the influence of the coronavirus in Japan today, and that I am in a busy world regardless of gender or age, so I can shop anywhere and anytime. I wish I had a service.
+
+- スーパーマーケットでの買い物での無駄な時間が多いと考えました。(往復にかける時間、商品を探す時間、レジに並ぶ時間など)また商品が自宅に届くので、重い荷物を運ぶ負担がなくなると考えたため。
+> I thought there was a lot of wasted time shopping at the supermarket. (Time to go back and forth, time to search for products, time to line up at the cash register, etc.) Also, because the products arrive at home, I thought that the burden of carrying heavy luggage would be eliminated.
 
 ## ターゲットユーザー [Target user]
 
