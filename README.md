@@ -1,13 +1,16 @@
 # Market Street
 
- スーパーマーケットのECサイト　 DMMWEBCAMP  ポートフォリオ
+DMMWEBCAMP  ポートフォリオ
 
 > Supermarket EC site. Portfolio　　
 
 ## サイトテーマ　[Site theme]
 
-場所を選ばないスーパーマーケット
-> Supermarket anywhere
+ネットでスーパーマーケットの買い物ができるECサイト
+
+## テーマを選んだ理由
+
+自分自身、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと思ったため
 
 ## ターゲットユーザー [Target user]
 
@@ -48,6 +51,11 @@ https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384
 > JS Library : jQuery
 
 - IDE : Cloud9
+
+## 使用素材　[Material used]
+
+- designevo
+- ぱくたそ
 
 ## Gem
 
