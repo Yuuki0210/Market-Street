@@ -43,10 +43,10 @@ https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384
 - フレームワーク　: Ruby on Rails(5.2.5)
 > Framework　: Ruby on Rails(5.2.5)
 
-- JS　ライブラリ　: jQuery
+- JSライブラリ　: jQuery
 > JS Library : jQuery
 
--　　IDE : Cloud9
+- IDE : Cloud9
 
 ## Gem
 
