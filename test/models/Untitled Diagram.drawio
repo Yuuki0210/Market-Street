@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-04T15:27:24.910Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="6_DK2L6rgIIdIX39yvtm" version="15.4.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-05T16:39:17.058Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.61 Safari/537.36" etag="ks-sOShqdYu_KDzk-FlU" version="15.4.1" type="github">
   <diagram id="2UvsV40Bdxc6qKGjU3cG" name="Page-1">
-    <mxGraphModel dx="122" dy="255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="567" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -37,8 +37,8 @@
         <mxCell id="d0L7aE6k5-M6V9UroeaH-29" value="&lt;font style=&quot;font-size: 10px&quot;&gt;������&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="797" y="50" width="30" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-32" value="ジャンル" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="60" y="50" width="50" height="15" as="geometry" />
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-32" value="&lt;font style=&quot;font-size: 8px&quot;&gt;マイページ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="55" y="50" width="60" height="15" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-33" value="商品一覧" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="120" y="50" width="50" height="15" as="geometry" />
@@ -60,9 +60,6 @@
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-42" value="醤油" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="414" y="390" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-45" value="toppage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-47" value="MarketStreet" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="378" y="450" width="96" height="20" as="geometry" />
@@ -110,13 +107,13 @@
           <mxGeometry x="330" y="740" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-67" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Log In&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="275" y="640" width="170" height="20" as="geometry" />
+          <mxGeometry x="395" y="640" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-68" value="&lt;font style=&quot;font-size: 8px&quot;&gt;login&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=36;align=center;" vertex="1" parent="1">
           <mxGeometry x="580" y="800" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-70" value="&lt;span style=&quot;font-size: 36px&quot;&gt;Sign Up&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="290" y="1080" width="200" height="20" as="geometry" />
+          <mxGeometry x="380" y="1080" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="330" y="1120" width="115" height="20" as="geometry" />
@@ -178,11 +175,11 @@
         <mxCell id="d0L7aE6k5-M6V9UroeaH-100" value="(メールアドレス)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="220" y="1295" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-101" value="()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="275" y="1320" width="60" height="30" as="geometry" />
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-101" value="(パスワード)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1320" width="75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-102" value="()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1355" width="60" height="30" as="geometry" />
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-102" value="(パスワード)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="259" y="1355" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-103" value="(郵便番号)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Verdana;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="270" y="1195" width="60" height="30" as="geometry" />
@@ -218,7 +215,7 @@
           <mxGeometry x="440" y="1630" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-119" value="&lt;font style=&quot;font-size: 36px&quot;&gt;商品一覧&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="140" y="1580" width="150" height="40" as="geometry" />
+          <mxGeometry x="405" y="1570" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-121" value="&lt;span style=&quot;font-size: 8px&quot;&gt;お水&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=36;" vertex="1" parent="1">
           <mxGeometry x="335" y="1700" width="60" height="30" as="geometry" />
@@ -278,7 +275,7 @@
           <mxGeometry x="405" y="840" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-183" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ショッピングカート&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="120" y="2580" width="260" height="40" as="geometry" />
+          <mxGeometry x="348" y="2580" width="260" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-184" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="138" y="2640" width="652" height="80" as="geometry" />
@@ -356,7 +353,7 @@
           <mxGeometry x="50" y="2980" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-220" value="&lt;font style=&quot;font-size: 24px&quot;&gt;注文情報確認&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="110" y="3550" width="160" height="40" as="geometry" />
+          <mxGeometry x="395" y="3540" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-244" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="144" y="3590" width="652" height="80" as="geometry" />
@@ -473,7 +470,7 @@
           <mxGeometry x="50" y="3390" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-286" value="&lt;font style=&quot;font-size: 24px&quot;&gt;注文入力ページ&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;" vertex="1" parent="1">
-          <mxGeometry x="120" y="3060" width="202" height="40" as="geometry" />
+          <mxGeometry x="374" y="3050" width="202" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-287" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=24;align=center;" vertex="1" parent="1">
           <mxGeometry x="210" y="3110" width="10" height="10" as="geometry" />
@@ -539,409 +536,835 @@
           <mxGeometry x="7" y="30" width="270" height="10" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-315" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#FF0000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5020" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="7510" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-316" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#FF0000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5020" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="7510" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-318" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="45" y="4500" width="860" height="470" as="geometry" />
+          <mxGeometry x="45" y="6990" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-319" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="45" y="4500" width="860" height="50" as="geometry" />
+          <mxGeometry x="45" y="6990" width="860" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-320" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="45" y="4910" width="860" height="60" as="geometry" />
+          <mxGeometry x="45" y="7400" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-321" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="325" y="4700" width="290" height="20" as="geometry" />
+          <mxGeometry x="325" y="7190" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-322" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="325" y="4670" width="80" height="30" as="geometry" />
+          <mxGeometry x="325" y="7160" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-323" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="325" y="4760" width="290" height="20" as="geometry" />
+          <mxGeometry x="325" y="7250" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-324" value="パスワード" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="325" y="4730" width="60" height="30" as="geometry" />
+          <mxGeometry x="325" y="7220" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-325" value="&lt;font style=&quot;font-size: 36px&quot;&gt;Log In&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="270" y="4630" width="170" height="20" as="geometry" />
+          <mxGeometry x="385" y="7120" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-326" value="&lt;font style=&quot;font-size: 8px&quot;&gt;login&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=36;align=center;" vertex="1" parent="1">
-          <mxGeometry x="575" y="4790" width="40" height="20" as="geometry" />
+          <mxGeometry x="575" y="7280" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-328" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 24px&quot;&gt;admin&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="4450" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-329" value="商品追加" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="80" y="5110" width="140" height="30" as="geometry" />
+          <mxGeometry x="50" y="6940" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-330" value="&lt;font style=&quot;font-size: 10px&quot;&gt;顧客一覧&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="60" y="5050" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-331" value="商品名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="50" y="5155" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-332" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5155" width="90" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-334" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5180" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-337" value="商品イメージ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="62.5" y="5180" width="65" height="17.5" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-338" value="税抜き価格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="65" y="5272" width="60" height="16" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-339" value="商品説明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="55" y="5197.5" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-340" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5201" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-342" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5270" width="50" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-343" value="円" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="186" y="5275" width="50" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-344" value="販売ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="65" y="5290" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-346" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5295" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-347" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="150" y="5310" width="10" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-348" value="販売中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="152.5" y="5290" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-349" value="販売停止中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="162.5" y="5307.5" width="60" height="15" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-350" value="商品の追加" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="110" y="5370" width="110" height="20" as="geometry" />
+          <mxGeometry x="60" y="7540" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-351" value="&lt;font style=&quot;font-size: 24px&quot;&gt;商品一覧&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="340" y="5110" width="103" height="30" as="geometry" />
+          <mxGeometry x="413" y="7584" width="103" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-352" value="&lt;font style=&quot;font-size: 8px&quot;&gt;１２３＞&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="545" y="5245" width="60" height="30" as="geometry" />
+          <mxGeometry x="413.5" y="7745" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-353" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="335" y="5150" width="525" height="30" as="geometry" />
+          <mxGeometry x="203.5" y="7650" width="525" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-354" value="&lt;font style=&quot;font-size: 12px&quot;&gt;ID&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="5160" width="60" height="10" as="geometry" />
+          <mxGeometry x="206" y="7660" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-355" value="商品名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="5150" width="60" height="30" as="geometry" />
+          <mxGeometry x="276" y="7650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-356" value="税抜き価格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="490" y="5155" width="80" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-357" value="&lt;font color=&quot;#ff0000&quot;&gt;ジャンル機能追加できたら追加する&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="60" y="5330" width="210" height="30" as="geometry" />
+          <mxGeometry x="358.5" y="7655" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-358" value="ジャンル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="625" y="5150" width="60" height="30" as="geometry" />
+          <mxGeometry x="493.5" y="7650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-361" value="&lt;font color=&quot;#000000&quot;&gt;販売ステータス&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="727" y="5150" width="100" height="30" as="geometry" />
+          <mxGeometry x="595.5" y="7650" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-362" value="１" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="335" y="5180" width="60" height="30" as="geometry" />
+          <mxGeometry x="203.5" y="7680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-363" value="お水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="405" y="5180" width="60" height="30" as="geometry" />
+          <mxGeometry x="273.5" y="7680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-364" value="￥１２０" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="500" y="5180" width="60" height="30" as="geometry" />
+          <mxGeometry x="368.5" y="7680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-366" value="&lt;font color=&quot;#ff0000&quot;&gt;飲料&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="625" y="5180" width="60" height="30" as="geometry" />
+          <mxGeometry x="493.5" y="7680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-367" value="&lt;font color=&quot;#000000&quot;&gt;販売中&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="747" y="5180" width="60" height="30" as="geometry" />
+          <mxGeometry x="615.5" y="7680" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-369" value="２" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="337" y="5210" width="60" height="30" as="geometry" />
+          <mxGeometry x="205.5" y="7710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-370" value="醤油" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="405" y="5210" width="60" height="30" as="geometry" />
+          <mxGeometry x="273.5" y="7710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-371" value="￥３００" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="500" y="5210" width="60" height="30" as="geometry" />
+          <mxGeometry x="368.5" y="7710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-372" value="&lt;font color=&quot;#ff0000&quot;&gt;食品&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="625" y="5210" width="60" height="30" as="geometry" />
+          <mxGeometry x="493.5" y="7710" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-373" value="&lt;font color=&quot;#000000&quot;&gt;販売停止中&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="740" y="5210" width="80" height="30" as="geometry" />
+          <mxGeometry x="608.5" y="7710" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-374" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5510" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="8000" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-375" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5510" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="8000" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-376" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=12;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="5920" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="8410" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-378" value="&lt;span style=&quot;font-size: 10px&quot;&gt;Log out&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="140" y="5050" width="70" height="20" as="geometry" />
+          <mxGeometry x="140" y="7540" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-379" value="&lt;span style=&quot;font-size: 10px&quot;&gt;ジャンル&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="5050" width="70" height="20" as="geometry" />
+          <mxGeometry x="220" y="7540" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-381" value="&lt;span style=&quot;font-size: 24px&quot;&gt;商品詳細&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="295" y="5620" width="130" height="30" as="geometry" />
+          <mxGeometry x="295" y="8110" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-385" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=8;align=center;" vertex="1" parent="1">
-          <mxGeometry x="306" y="5680" width="110" height="110" as="geometry" />
+          <mxGeometry x="306" y="8170" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-386" value="&lt;font style=&quot;font-size: 24px&quot;&gt;お水&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="515" y="5690" width="60" height="30" as="geometry" />
+          <mxGeometry x="515" y="8180" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-387" value="どこどこの天然水でなになになになにが入っています" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;" vertex="1" parent="1">
-          <mxGeometry x="515" y="5720" width="150" height="40" as="geometry" />
+          <mxGeometry x="515" y="8210" width="150" height="40" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-390" value="&lt;font style=&quot;font-size: 10px&quot;&gt;商品名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="445" y="5690" width="90" height="20" as="geometry" />
+          <mxGeometry x="445" y="8180" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-391" value="商品説明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="5720" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="8210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-392" value="&lt;font color=&quot;#ff0000&quot;&gt;ジャンル&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="5750" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="8240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-393" value="飲料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="500" y="5750" width="60" height="30" as="geometry" />
+          <mxGeometry x="500" y="8240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-394" value="&lt;font color=&quot;#000000&quot;&gt;税込価格&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#FF0000;" vertex="1" parent="1">
-          <mxGeometry x="460" y="5770" width="60" height="30" as="geometry" />
+          <mxGeometry x="460" y="8260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-395" value="￥１３２" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="510" y="5770" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="8260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-396" value="販売ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="435" y="5790" width="80" height="30" as="geometry" />
+          <mxGeometry x="435" y="8280" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-397" value="販売中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="505" y="5790" width="60" height="30" as="geometry" />
+          <mxGeometry x="505" y="8280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-399" value="編集する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="495" y="5830" width="70" height="20" as="geometry" />
+          <mxGeometry x="495" y="8320" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-400" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6000" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="8490" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-401" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6000" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="8490" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-402" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6410" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="8900" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-403" value="&lt;font style=&quot;font-size: 24px&quot;&gt;商品詳細編集&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="273" y="6100" width="177" height="30" as="geometry" />
+          <mxGeometry x="378" y="8580" width="177" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="d0L7aE6k5-M6V9UroeaH-404" value="&lt;font style=&quot;font-size: 10px&quot;&gt;商品詳細&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="277" y="6142.5" width="102" height="30" as="geometry" />
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-404" value="&lt;font style=&quot;font-size: 10px&quot;&gt;商品画像&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="8632.5" width="102" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-405" value="ファイル選択" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="358.5" y="6150" width="70" height="20" as="geometry" />
+          <mxGeometry x="421.5" y="8640" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-406" value="選択されていません" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="430" y="6147.5" width="100" height="25" as="geometry" />
+          <mxGeometry x="493" y="8637.5" width="100" height="25" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-407" value="商品名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="300" y="6172.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="363" y="8662.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-408" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="358" y="6181.25" width="110" height="12.5" as="geometry" />
+          <mxGeometry x="421" y="8671.25" width="110" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-409" value="消費説明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="298" y="6197.5" width="60" height="30" as="geometry" />
+          <mxGeometry x="361" y="8687.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-411" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="358" y="6206.25" width="110" height="53.75" as="geometry" />
+          <mxGeometry x="421" y="8700" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-413" value="ジャンル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="297.5" y="6270" width="60" height="30" as="geometry" />
+          <mxGeometry x="360.5" y="8760" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-415" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="6278.75" width="110" height="12.5" as="geometry" />
+          <mxGeometry x="420.5" y="8768.75" width="110" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-417" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="453" y="6278.75" width="15" height="12.5" as="geometry" />
+          <mxGeometry x="516" y="8768.75" width="15" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-418" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="455.5" y="6281.25" width="10" height="10" as="geometry" />
+          <mxGeometry x="518.5" y="8771.25" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-419" value="税抜き価格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="293" y="6291.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="356" y="8781.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-421" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="357.5" y="6300" width="92.5" height="12.5" as="geometry" />
+          <mxGeometry x="420.5" y="8790" width="92.5" height="12.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-422" value="円" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="6291.25" width="60" height="30" as="geometry" />
+          <mxGeometry x="491.5" y="8781.25" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-423" value="販売ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="273" y="6312.5" width="80" height="30" as="geometry" />
+          <mxGeometry x="336" y="8802.5" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-425" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="358.25" y="6324.25" width="6.5" height="6.5" as="geometry" />
+          <mxGeometry x="421.25" y="8814.25" width="6.5" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-426" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="403.5" y="6324.25" width="6.5" height="6.5" as="geometry" />
+          <mxGeometry x="466.5" y="8814.25" width="6.5" height="6.5" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-427" value="販売中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="353" y="6310.38" width="60" height="34.25" as="geometry" />
+          <mxGeometry x="416" y="8800.380000000001" width="60" height="34.25" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-428" value="販売停止中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="407.5" y="6312.51" width="60" height="30" as="geometry" />
+          <mxGeometry x="470.5" y="8802.51" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-429" value="変更を保存" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="360" y="6350" width="110" height="20" as="geometry" />
+          <mxGeometry x="423" y="8840" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-432" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6490" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="9470" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-433" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6490" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="9470" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-434" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6900" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="9880" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-435" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ジャンル一覧・追加&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="255" y="6570" width="220" height="50" as="geometry" />
+          <mxGeometry x="255" y="9550" width="220" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-436" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ジャンル名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="212.5" y="6620" width="60" height="30" as="geometry" />
+          <mxGeometry x="212.5" y="9600" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-437" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="283.5" y="6630" width="120" height="20" as="geometry" />
+          <mxGeometry x="283.5" y="9610" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-438" value="新規登録" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="421.5" y="6630" width="48.5" height="20" as="geometry" />
+          <mxGeometry x="421.5" y="9610" width="48.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-439" value="ジャンル" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="220" y="6670" width="170" height="20" as="geometry" />
+          <mxGeometry x="220" y="9650" width="170" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-440" value="飲料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="205" y="6695" width="60" height="30" as="geometry" />
+          <mxGeometry x="205" y="9675" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-442" value="編集する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="6700" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="9680" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-443" value="食料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="205" y="6725" width="60" height="30" as="geometry" />
+          <mxGeometry x="205" y="9705" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-445" value="編集する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="300" y="6730" width="60" height="20" as="geometry" />
+          <mxGeometry x="300" y="9710" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-458" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6980" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="9960" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-459" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="6980" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="9960" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-460" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7390" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="10370" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-462" value="&lt;font style=&quot;font-size: 24px&quot;&gt;ジャンル編集&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="270" y="7070" width="150" height="60" as="geometry" />
+          <mxGeometry x="270" y="10050" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-463" value="&lt;font style=&quot;font-size: 10px&quot;&gt;ジャンル&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="220" y="7150" width="60" height="30" as="geometry" />
+          <mxGeometry x="220" y="10130" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-464" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="290" y="7160" width="120" height="20" as="geometry" />
+          <mxGeometry x="290" y="10140" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-465" value="変更を保存" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="428.5" y="7160" width="60" height="20" as="geometry" />
+          <mxGeometry x="428.5" y="10140" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-466" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7470" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="10450" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-467" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7470" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="10450" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-468" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7880" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="10860" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-469" value="&lt;font style=&quot;font-size: 24px&quot;&gt;会員一覧&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="187.5" y="7550" width="122.5" height="31" as="geometry" />
+          <mxGeometry x="187.5" y="10530" width="122.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-470" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="190" y="7590" width="330" height="20" as="geometry" />
+          <mxGeometry x="190" y="10570" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-471" value="&lt;font style=&quot;font-size: 10px&quot;&gt;会員ID&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="185" y="7581" width="60" height="30" as="geometry" />
+          <mxGeometry x="185" y="10561" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-473" value="氏名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="7585" width="60" height="30" as="geometry" />
+          <mxGeometry x="252.5" y="10565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-475" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="329" y="7585" width="80" height="30" as="geometry" />
+          <mxGeometry x="329" y="10565" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-476" value="ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="7585" width="60" height="30" as="geometry" />
+          <mxGeometry x="443" y="10565" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-477" value="１" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="181" y="7611" width="60" height="30" as="geometry" />
+          <mxGeometry x="181" y="10591" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-478" value="大阪太郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="252.5" y="7610" width="60" height="30" as="geometry" />
+          <mxGeometry x="252.5" y="10590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-479" value="abc@abc.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="337.5" y="7610" width="60" height="30" as="geometry" />
+          <mxGeometry x="337.5" y="10590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-480" value="有効" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="7610" width="60" height="30" as="geometry" />
+          <mxGeometry x="443" y="10590" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-481" value="２" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="181" y="7630" width="60" height="30" as="geometry" />
+          <mxGeometry x="181" y="10610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-482" value="東京一郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="255" y="7630" width="60" height="30" as="geometry" />
+          <mxGeometry x="255" y="10610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-483" value="bcd@bcd.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="339" y="7630" width="60" height="30" as="geometry" />
+          <mxGeometry x="339" y="10610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-484" value="有効" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="443" y="7630" width="60" height="30" as="geometry" />
+          <mxGeometry x="443" y="10610" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-485" value="&lt;font style=&quot;font-size: 8px&quot;&gt;１２３＞&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="306" y="7670" width="60" height="30" as="geometry" />
+          <mxGeometry x="306" y="10650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-486" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7960" width="860" height="470" as="geometry" />
+          <mxGeometry x="40" y="10940" width="860" height="470" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-487" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="7960" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="10940" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-488" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
-          <mxGeometry x="40" y="8370" width="860" height="60" as="geometry" />
+          <mxGeometry x="40" y="11350" width="860" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-489" value="&lt;font style=&quot;font-size: 24px&quot;&gt;大阪太郎さんの会員詳細&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="217" y="8040" width="310" height="50" as="geometry" />
+          <mxGeometry x="311" y="11000" width="310" height="50" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-490" value="&lt;font style=&quot;font-size: 10px&quot;&gt;会員ID&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="238" y="8080" width="60" height="30" as="geometry" />
+          <mxGeometry x="238" y="11060" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-491" value="１" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="335" y="8085" width="60" height="20" as="geometry" />
+          <mxGeometry x="335" y="11065" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-492" value="氏名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="236" y="8105" width="60" height="30" as="geometry" />
+          <mxGeometry x="236" y="11085" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="d0L7aE6k5-M6V9UroeaH-493" value="大阪　太郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="335" y="8105" width="60" height="25" as="geometry" />
+          <mxGeometry x="335" y="11085" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-494" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="70" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-495" value="ジャンル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="55" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-496" value="お酒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="55" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-497" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="4450" width="864" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-498" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="44.5" y="4450" width="864" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-499" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=8;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="45" y="4860" width="865" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-500" value="&lt;font style=&quot;font-size: 24px&quot;&gt;mypage&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=8;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="369" y="4510" width="215" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-501" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="7920" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-505" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="8980" width="860" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-506" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="8980" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-507" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="9390" width="860" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-508" value="&lt;font style=&quot;font-size: 24px&quot;&gt;商品登録&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="389.5" y="9070" width="177" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-509" value="&lt;font style=&quot;font-size: 10px&quot;&gt;商品画像&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="358" y="9124.5" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-510" value="ファイル選択" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="439.5" y="9132" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-511" value="選択されていません" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="511" y="9129.5" width="100" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-512" value="商品名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="381" y="9154.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-513" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="439" y="9163.25" width="110" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-514" value="消費説明" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="379" y="9179.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-515" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="439" y="9188.25" width="110" height="53.75" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-516" value="ジャンル" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="378.5" y="9252" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-517" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="9260.75" width="110" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-518" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="534" y="9260.75" width="15" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-519" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="9263.25" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-520" value="税抜き価格" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="374" y="9273.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-521" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="438.5" y="9282" width="92.5" height="12.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-522" value="円" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="509.5" y="9273.25" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-523" value="販売ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="9294.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-524" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="439.25" y="9306.25" width="6.5" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-525" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="484.5" y="9306.25" width="6.5" height="6.5" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-526" value="販売中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="434" y="9292.380000000001" width="60" height="34.25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-527" value="販売停止中" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="488.5" y="9294.51" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-528" value="変更を保存" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="441" y="9332" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-532" value="&lt;font style=&quot;font-size: 10px&quot;&gt;氏名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="360" y="4570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-533" value="大阪太郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="453" y="4570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-535" value="カナ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="4600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-536" value="オオサカタロウ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="442" y="4605" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-537" value="郵便番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="4625" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-538" value="〒１２３４５６７" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="434" y="4625" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-540" value="住所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="357" y="4655" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-541" value="大阪府大阪市大阪村１−２ー３" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="421.5" y="4655" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-542" value="電話番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="358.5" y="4685" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-543" value="０１２３４５６７７" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="433" y="4685" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-544" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="344.5" y="4715" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-545" value="abc@abc.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="459" y="4715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-546" value="編集する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="4760" width="138.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-548" value="注文履歴一覧を見る" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="410" y="4790" width="138.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-549" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43.25" y="4940" width="865.5" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-550" value="&lt;font style=&quot;font-size: 24px&quot;&gt;mypage編集&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="385" y="5020" width="154" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-552" value="&lt;font style=&quot;font-size: 10px&quot;&gt;footer&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="5290" width="865.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-553" value="&lt;font style=&quot;font-size: 10px&quot;&gt;header&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="4940" width="867" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-554" value="&lt;font style=&quot;font-size: 10px&quot;&gt;氏名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="355.5" y="5057.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-555" value="カナ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="5087.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-556" value="郵便番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="5112.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-557" value="住所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="352.5" y="5142.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-558" value="電話番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="354" y="5172.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-559" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340" y="5202.5" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-560" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="443" y="5067.5" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-561" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="443" y="5092.5" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-562" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="545" y="5092.5" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-563" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="544" y="5067.5" width="66" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-564" value="&lt;font style=&quot;font-size: 10px&quot;&gt;姓&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="415.75" y="5067.5" width="30" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-565" value="名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="503" y="5062.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-566" value="セイ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="5087.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-567" value="メイ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="500" y="5087.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-568" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="443" y="5117.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-569" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="443" y="5147.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-570" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="5177.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-571" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="444" y="5207.5" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-572" value="更新する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="441" y="5244" width="128" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-574" value="退会する方はこちらから" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="710" y="5000" width="274.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-575" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="5370" width="867" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-576" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="5720" width="867" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-577" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="5370" width="867" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-578" value="&lt;font style=&quot;font-size: 18px&quot;&gt;本当に退会しますか？&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="383" y="5470" width="185" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-579" value="&lt;span style=&quot;font-size: 10px&quot;&gt;退会すると会員情報や&lt;br&gt;これまでの購入履歴が閲覧できなくなります。&lt;br&gt;退会する場合は「退会する」をクリックしてください&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=18;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="331" y="5500" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-580" value="退会する" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="486.5" y="5590" width="58.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-581" value="退会しない" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="403.5" y="5590" width="58.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-582" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="5800" width="865.5" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-583" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="40" y="5800" width="870" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-584" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="6150" width="868.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-587" value="&lt;font style=&quot;font-size: 24px&quot;&gt;注文履歴一覧&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="377.5" y="5880" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-589" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=24;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="247" y="5920" width="493" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-590" value="&lt;font style=&quot;font-size: 9px&quot;&gt;注文日&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="222.5" y="5915" width="98.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-591" value="金額" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="508" y="5920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-592" value="商品" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348.5" y="5920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-593" value="ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="656" y="5920" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-594" value="2021/2/1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="246" y="5940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-595" value="醤油" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="348" y="5940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-596" value="￥120" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="509" y="5940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-597" value="発送済み" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="656" y="5940" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-598" value="１２３＞" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="450" y="6000" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-599" value="作れたら注文履歴詳細ページ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="43" y="6230" width="867" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-600" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="11430" width="858.25" height="530" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-624" value="&lt;font style=&quot;font-size: 10px&quot;&gt;氏名&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="565.5" y="17230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-625" value="カナ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="17260" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-626" value="郵便番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="17285" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-627" value="住所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="17315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-628" value="電話番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="564" y="17345" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-629" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="550" y="17375" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-631" value="カナ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="11115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-632" value="郵便番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="11140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-633" value="住所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="232.5" y="11170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-634" value="電話番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="234" y="11200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-635" value="メールアドレス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="220" y="11230" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-636" value="オオサカタロウ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="333.5" y="11106" width="86.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-637" value="1２３４５６" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="340.75" y="11140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-638" value="大阪府大阪市大阪村１−２−３" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="303.5" y="11170" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-639" value="１２３４５６４７" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="303" y="11200" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-640" value="abc@abc.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="338" y="11230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-641" value="header" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="11430" width="858.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-642" value="footer" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="11900" width="858.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-643" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=9;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="214.5" y="11550" width="523" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-644" value="&lt;font style=&quot;font-size: 24px&quot;&gt;注文履歴一覧&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="386.75" y="11510" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-645" value="&lt;font style=&quot;font-size: 10px&quot;&gt;購入日時&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="196" y="11545" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-646" value="購入者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402" y="11550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-647" value="注文ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="635" y="11550" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-648" value="2021/2/21" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="217" y="11570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-649" value="大阪太郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="402.5" y="11570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-650" value="入金待ち" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="11570" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-651" value="123&amp;gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="417" y="11600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-652" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="11980" width="858.25" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-653" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="11980" width="858.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-654" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="41.75" y="12400" width="858.25" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-655" value="購入者" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="12113.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-656" value="大阪　太郎" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="473" y="12116" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-657" value="カナ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="400.75" y="12141" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-658" value="郵便番号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="399" y="12170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-659" value="住所" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="398" y="12200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-660" value="オオサカタロウ" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="467" y="12141" width="86.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-661" value="1２３４５６" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="475" y="12170" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-662" value="大阪府大阪市大阪村１−２−３" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=9;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455.25" y="12200" width="172.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-663" value="&lt;font style=&quot;font-size: 24px&quot;&gt;注文履歴詳細&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="384.75" y="12060" width="162.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-664" value="&lt;font style=&quot;font-size: 10px&quot;&gt;支払い方法&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=24;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="395" y="12225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-665" value="クレジットカード" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="453" y="12235" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-667" value="入金待ち" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="473.5" y="12255" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-669" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="524" y="12255" width="26" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-670" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="531" y="12257.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-671" value="注文ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="382.75" y="12247.5" width="79.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-672" value="更新" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="12255" width="37.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-673" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="381" y="12280" width="329" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-674" value="商品名" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="368.5" y="12275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-675" value="単価（税込）" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="455" y="12275" width="75" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-676" value="小計" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="12275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-677" value="発送ステータス" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="620" y="12247.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-678" value="お水" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="373" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-679" value="￥１２０" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="456" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-680" value="数量" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="12275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-681" value="１個" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="563" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-682" value="￥１２０" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="645" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-692" value="着手不可" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="700" y="12255" width="50" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-693" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750.5" y="12255" width="19.5" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-694" value="" style="triangle;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="756" y="12257.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-695" value="更新" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Courier New;fontSize=10;fontColor=#000000;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="12255" width="40" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-696" value="商品合計" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-697" value="￥１２０" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="804" y="12300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-698" value="送料" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="12320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-699" value="￥５００" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="804" y="12320" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-700" value="請求額合計" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="740" y="12340" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="d0L7aE6k5-M6V9UroeaH-701" value="￥６２０" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Courier New;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="804" y="12340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
