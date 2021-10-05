@@ -2,7 +2,7 @@
 
 ## サイト概要　[Site overview]　　
 スーパーマーケットの商品をネット上で購入することができるECサイト。
-利用者は会員制で、レビューを参考にしながら買い物する事が可能で、家計簿の代わりに過去の購入履歴を一覧で確認する事ができるECサイト。
+利用者は会員制で、レビューを参考にしながら買い物する事が可能で、家計簿の代わりに購入履歴を一覧で確認する事ができるECサイト。
 
 > An EC site where you can shop online at supermarkets. An EC site where users can shop by referring to reviews with a membership system and can check past purchase history.
 
