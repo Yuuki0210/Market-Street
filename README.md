@@ -1,24 +1,21 @@
 # Market Street
 
-DMMWEBCAMP  ポートフォリオ
+## サイト概要　[Site overview]　　
+スーパーマーケットの商品をネット上で行う事ができるECサイト。
+利用者は会員制で、レビューを参考に買い物する事が可能で、家計簿の代わりに過去の購入履歴を一覧で確認する事ができるECサイト。
 
-> Supermarket EC site. Portfolio　　
+> An EC site where you can shop online at supermarkets. An EC site where users can shop by referring to reviews with a membership system and can check past purchase history.
 
 ## サイトテーマ　[Site theme]
 
-ネットでスーパーマーケットの買い物ができるECサイト
-> EC site where you can shop at supermarkets online
+スーパーマーケットでの買い物をより便利に簡単に
+> Make shopping in the supermarket more convenient and easier
+## テーマを選んだ理由　[Reasons for choosing the theme]
 
-## テーマを選んだ理由 [Reasons for choosing the theme]
+自分自身、スーパーマーケットに買い物をする際無駄な時間が多いと考えていて、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと考えたため。
+> I think that there is a lot of wasted time shopping in supermarkets, and it is becoming more difficult to go out easily due to the influence of the coronavirus in Japan today, and in a busy world regardless of gender or age. I felt that it was, so I thought it would be nice if there was a service that would allow me to shop anywhere and anytime.
 
-- 自分自身、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと思ったため。
-
-> I myself feel that going out easily is becoming more difficult due to the influence of the coronavirus in Japan today, and that I am in a busy world regardless of gender or age, so I can shop anywhere and anytime. I wish I had a service.
-
-- スーパーマーケットでの買い物での無駄な時間が多いと考えました。(往復にかける時間、商品を探す時間、レジに並ぶ時間など)また商品が自宅に届くので、重い荷物を運ぶ負担がなくなると考えたため。
-> I thought there was a lot of wasted time shopping at the supermarket. (Time to go back and forth, time to search for products, time to line up at the cash register, etc.) Also, because the products arrive at home, I thought that the burden of carrying heavy luggage would be eliminated.
-
-## ターゲットユーザー [Target user]
+## ターゲットユーザー　[Target user]
 
 - 20代~50代の主婦の方
 > Housewives in their 20s and 50s.
@@ -27,7 +24,7 @@ DMMWEBCAMP  ポートフォリオ
 > Student living alone. 
 
 
-## 主な利用シーン [Main usage scenes]
+## 主な利用シーン　[Main usage scenes]
 
 - スーパーマーケットに買い物に行く時間がない時
 > When you don't have time to go shopping in the supermarket.
@@ -39,11 +36,11 @@ DMMWEBCAMP  ポートフォリオ
 - 過去の購入履歴を見たい時
 > When you want to see the past purchase history
 
-## 機能一覧 [List of Functions]
+## 機能一覧　[List of Functions]
 
 https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384G_g/edit#gid=0
 
-## 開発環境 [Development environment]
+## 開発環境　[Development environment]
 
 - OS : Linux(CentOS)
 
@@ -63,7 +60,7 @@ https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384
 - designevo
 - ぱくたそ
 
-## Author　　作成者
+## 作成者 [Author]
 
 金井勇樹 
 > Yuuki Kanai
