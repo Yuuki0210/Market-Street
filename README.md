@@ -1,44 +1,67 @@
 # Market Street
 
-スーパーマーケットでの買い物の時間を短縮できるように作ったECサイトです。
+## サイト概要　[Site overview]　　
+スーパーマーケットの商品をネット上で購入することができるECサイト。
+利用者は会員制で、レビューを参考にしながら買い物する事が可能で、家計簿の代わりに購入履歴を一覧で確認する事ができるECサイト。
 
-It is an EC site created to shorten the shopping time in the supermarket.
+> An EC site where you can shop online at supermarkets. An EC site where users can shop by referring to reviews with a membership system and can check past purchase history.
 
-# セールスポイント Sales Point
+## サイトテーマ　[Site theme]
 
-時間のない主婦の方にスーパーに行かなくても買い物をしていただけるように作りました。
+スーパーマーケットでの買い物をより便利に簡単に
+> Make shopping in the supermarket more convenient and easier
+## テーマを選んだ理由　[Reasons for choosing the theme]
 
-I made it so that housewives who do not have time can shop without going to the supermarket.
+自分自身、スーパーマーケットに買い物をする際無駄な時間が多いと考えていて、現在の日本においてコロナウイルスの影響もあり容易に外出する事が厳しくなっていたり、性別年齢問わずに多忙な世の中になっていると感じたので、場所と時間を選ばず買い物ができるサービスがあればいいなと考えたため。
+> I think that there is a lot of wasted time shopping in supermarkets, and it is becoming more difficult to go out easily due to the influence of the coronavirus in Japan today, and in a busy world regardless of gender or age. I felt that it was, so I thought it would be nice if there was a service that would allow me to shop anywhere and anytime.
 
-# インストール方法 Installation method
+## ターゲットユーザー　[Target user]
 
-完成次第記入します。
+- 20代~50代の主婦の方
+> Housewives in their 20s and 50s.
 
-I will fill it in as soon as it is completed.
+- 一人暮らしの学生
+> Student living alone. 
 
-# 使用言語 Language used
 
-・HTML&CSS
-・Ruby
-・JavaSprict
-Ruby on Rails(5.2.5)
+## 主な利用シーン　[Main usage scenes]
 
-# 機能一覧 List of Functions
+- スーパーマーケットに買い物に行く時間がない時
+> When you don't have time to go shopping in the supermarket.
+
+- 商品の詳細を把握したい時(他人の口コミや商品説明を見る事ができる)
+> When you want to know the details of the product 
+> (You can see other people's reviews and product descriptions)
+
+- 過去の購入履歴を見たい時
+> When you want to see the past purchase history
+
+## 機能一覧　[List of Functions]
 
 https://docs.google.com/spreadsheets/d/1IfcfL3Ky6pw78hUfQhf09LCOHEddrNkxruqR9384G_g/edit#gid=0
 
-# Gem
+## 開発環境　[Development environment]
 
-・boostrap
-・devise
-・refile
-・refile-mini_magick
-・kaminari
-・jquery-rails
-・fontausome
+- OS : Linux(CentOS)
 
-# 作成者 Author
+- 言語 ： HTML,CSS,Ruby,JavaScript,SQL
+> Language : HTML,CSS,Ruby,JavaScript,SQL
 
-金井勇樹 Yuuki Kanai
+- フレームワーク　: Ruby on Rails(5.2.5)
+> Framework　: Ruby on Rails(5.2.5)
 
-DMM WEB CAMP 2021 8月生
+- JSライブラリ　: jQuery
+> JS Library : jQuery
+
+- IDE : Cloud9
+
+## 使用素材　[Material used]
+
+- designevo
+- ぱくたそ
+
+## 作成者 [Author]
+
+金井勇樹 
+> Yuuki Kanai
+
